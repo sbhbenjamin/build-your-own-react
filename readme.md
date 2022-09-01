@@ -1,5 +1,5 @@
 # Introduction
-Didact is a codealong that I followed from Rodrigo Pombo's [Build your own React talk](https://www.youtube.com/watch?v=8Kc2REHdwnQ&ab_channel=GrUSP) given at JSDay 2019. Didact was the given name of choice due to the didactic nature of this project.
+Didact is based off Rodrigo Pombo's [Build your own React talk](https://www.youtube.com/watch?v=8Kc2REHdwnQ&ab_channel=GrUSP) given at JSDay 2019. Didact was the given name of choice due to the didactic nature of this project.
 
 React is a tool that enabled me to kick start my web development journey, and I wanted to better understand the tool that I use so often – What's better than building the tool (albeit a simplified version) yourself?
 
